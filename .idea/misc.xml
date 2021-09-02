@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Vishal/Desktop/Workspace/TechTut/app/src/main/res/drawable/border.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/Vishal/Desktop/Workspace/TechTut/app/src/main/res/drawable/button.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Vishal/Desktop/Workspace/TechTut/app/src/main/res/layout/activity_home.xml" value="0.22" />
         <entry key="..\:/Users/Vishal/Desktop/Workspace/TechTut/app/src/main/res/layout/activity_main.xml" value="0.22" />
       </map>
     </option>

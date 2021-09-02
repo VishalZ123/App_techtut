@@ -20,28 +20,28 @@
         android:id="@+id/appName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:padding="2dp"
-        android:text="TechTut"
-        android:layout_marginTop="203dp"
         android:layout_centerHorizontal="true"
-        android:textColor="@color/grey_text"
-        android:textSize="45sp"
-        android:textStyle="italic"
+        android:layout_marginTop="175dp"
         android:fontFamily="@font/lucida_sans_italic"
-        app:fontFamily="@font/lucida_sans_italic"
-        android:shadowColor="@color/black"
+        android:padding="2dp"
+        android:shadowColor="@color/purple_200"
         android:shadowDx="5"
         android:shadowDy="5"
         android:shadowRadius="6"
+        android:text="TechTut"
+        android:textColor="@color/grey_text"
+        android:textSize="45sp"
+        android:textStyle="italic"
+        app:fontFamily="@font/lucida_sans_italic"
         tools:ignore="HardcodedText" />
 
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        app:srcCompat="@drawable/techtutlogo"
-        android:contentDescription="@string/logo"
+        android:layout_centerHorizontal="true"
         android:layout_marginTop="70dp"
-        android:layout_centerHorizontal="true"/>
+        android:contentDescription="@string/logo"
+        app:srcCompat="@drawable/techtutlogo" />
 
 </RelativeLayout>

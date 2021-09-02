@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/taskText"
+        android:layout_width="250dp"
+        android:layout_height="132dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="75dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/border"
+        android:elevation="10dp"
+        android:textColor="@color/grey_text"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/tutorialBtn"
+        android:layout_width="200dp"
+        android:layout_height="54dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="220dp"
+        android:text="Tutorials" />
+
+    <Button
+        android:id="@+id/notificationBtn"
+        android:layout_width="200dp"
+        android:layout_height="54dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="300dp"
+        android:text="Notification" />
+
+    <Button
+        android:id="@+id/supportBtn"
+        android:layout_width="200dp"
+        android:layout_height="54dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="380dp"
+        android:text="Support" />
+
+    <TextView
+        android:id="@+id/tipText"
+        android:layout_width="250dp"
+        android:layout_height="132dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="470dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/border"
+        android:elevation="10dp"
+        android:textColor="@color/grey_text"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+</RelativeLayout>
