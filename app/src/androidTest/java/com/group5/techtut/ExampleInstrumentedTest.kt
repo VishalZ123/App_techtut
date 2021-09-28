@@ -1,4 +1,4 @@
-package com.ED.techtut
+package com.group5.techtut
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
