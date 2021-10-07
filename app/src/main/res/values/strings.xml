@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TechTut</string>
+    <string name="support">Support</string>
+    <string name="settings_icon">settings_icon</string>
+    <string name="about_icon">about_icon</string>
+    <string name="notification">Notification</string>
+    <string name="tutorials">Tutorials</string>
+</resources>
