@@ -1,4 +1,4 @@
-package com.group5.techtut
+package com.ed.techtut
 
 import org.junit.Test
 

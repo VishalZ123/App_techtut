@@ -1,4 +1,4 @@
-package com.group5.techtut
+package com.ed.techtut
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity

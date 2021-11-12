@@ -1,9 +1,5 @@
-package com.group5.techtut
-import android.graphics.Color
-import android.os.Build
+package com.ed.techtut
 import android.os.Bundle
-import android.view.View
-import android.view.WindowManager
 import androidx.appcompat.app.AppCompatActivity
 
 class AboutActivity: AppCompatActivity(){
