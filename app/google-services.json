@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "755552505067",
-    "project_id": "techtut-f024f",
-    "storage_bucket": "techtut-f024f.appspot.com"
+    "project_number": "345646323667",
+    "project_id": "techtut-eb079",
+    "storage_bucket": "techtut-eb079.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:755552505067:android:d3102f23812000c21cc2ae",
+        "mobilesdk_app_id": "1:345646323667:android:9ba0029f823bc1a52b4126",
         "android_client_info": {
           "package_name": "com.group5.techtut"
         }
       },
       "oauth_client": [
         {
-          "client_id": "755552505067-f85eguvl4psogi8jc5hme76g4jtokkb3.apps.googleusercontent.com",
+          "client_id": "345646323667-vsk9k5m1mbann1h2i3v6rrhneqmrbcrv.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCaE0MStjZ8bu5u5MiAELQjOpfetHkNqtU"
+          "current_key": "AIzaSyD1WEQbE2deuHQXgcVo5YYM4y5a8KkQNW8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "755552505067-f85eguvl4psogi8jc5hme76g4jtokkb3.apps.googleusercontent.com",
+              "client_id": "345646323667-vsk9k5m1mbann1h2i3v6rrhneqmrbcrv.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
